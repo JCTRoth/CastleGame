@@ -17,7 +17,7 @@ The game features a randomly generated game field, fog of war and a battle syste
 
 ![CastleGame_img4](/img/3.png  "CastleGame")
 
-#### An Attack was Commited.
+#### An Attack was Commited:
 ![CastleGame_img5](/img/Attack_Commited.png  "Attack is Commited")
 
 
